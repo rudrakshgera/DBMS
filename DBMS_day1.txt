@@ -1,0 +1,6 @@
+Q1. What is Data?
+Ans. Data is raw information—like numbers, text, or measurements—that can be collected, stored, and analyzed to gain insights or make decisions.
+
+Q2. What is FileSystem?
+Ans. A file system is a method used by an operating system to organize, store, retrieve, and manage data on storage devices like hard drives or USBs. It keeps track of where files are located and how they’re named.
+
